@@ -2,7 +2,7 @@
 import style from './DefaultForm.module.css';
 
 //React
-import React, { useEffect, useState } from "react";
+import React, { useState } from "react";
 
 //Componets
 import { Inputs } from "../../components/Inputs";
